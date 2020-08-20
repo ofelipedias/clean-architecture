@@ -9,5 +9,19 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>domain</artifactId>
+    <artifactId>configuration</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>br.com.felipesilva</groupId>
+            <artifactId>postgres-db</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>br.com.felipesilva</groupId>
+            <artifactId>rest-in</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>

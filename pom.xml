@@ -23,13 +23,13 @@
         <dependencies>
             <dependency>
                 <groupId>br.com.felipesilva</groupId>
-                <artifactId>application</artifactId>
+                <artifactId>configuration</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
                 <groupId>br.com.felipesilva</groupId>
-                <artifactId>domain</artifactId>
+                <artifactId>application</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
@@ -61,8 +61,8 @@
     </dependencies>
 
     <modules>
-        <module>domain</module>
         <module>application</module>
+        <module>configuration</module>
         <module>postgres-db</module>
         <module>rest-in</module>
     </modules>

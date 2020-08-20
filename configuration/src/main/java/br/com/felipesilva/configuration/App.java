@@ -1,4 +1,4 @@
-package br.com.felipesilva.application;
+package br.com.felipesilva.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

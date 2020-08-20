@@ -1,6 +1,6 @@
-package br.com.felipesilva.domain.port;
+package br.com.felipesilva.application.port.out;
 
-import br.com.felipesilva.domain.model.User;
+import br.com.felipesilva.application.domain.User;
 
 import java.util.UUID;
 

@@ -1,14 +1,14 @@
-package br.com.felipesilva.domain.service;
+package br.com.felipesilva.application.service;
 
-import br.com.felipesilva.domain.model.User;
-import br.com.felipesilva.domain.port.CreateUserPort;
-import br.com.felipesilva.domain.port.DeleteUserPort;
-import br.com.felipesilva.domain.port.GetUserPort;
-import br.com.felipesilva.domain.port.UpdateUserPort;
-import br.com.felipesilva.domain.usecase.CreateUserUseCase;
-import br.com.felipesilva.domain.usecase.DeleteUserUseCase;
-import br.com.felipesilva.domain.usecase.GetUserUseCase;
-import br.com.felipesilva.domain.usecase.UpdateUserUseCase;
+import br.com.felipesilva.application.domain.User;
+import br.com.felipesilva.application.port.out.CreateUserPort;
+import br.com.felipesilva.application.port.out.DeleteUserPort;
+import br.com.felipesilva.application.port.out.GetUserPort;
+import br.com.felipesilva.application.port.out.UpdateUserPort;
+import br.com.felipesilva.application.port.in.CreateUserUseCase;
+import br.com.felipesilva.application.port.in.DeleteUserUseCase;
+import br.com.felipesilva.application.port.in.GetUserUseCase;
+import br.com.felipesilva.application.port.in.UpdateUserUseCase;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

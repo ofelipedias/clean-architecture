@@ -1,10 +1,10 @@
 package br.com.felipesilva.rest.in.controller;
 
-import br.com.felipesilva.domain.model.User;
-import br.com.felipesilva.domain.usecase.CreateUserUseCase;
-import br.com.felipesilva.domain.usecase.DeleteUserUseCase;
-import br.com.felipesilva.domain.usecase.GetUserUseCase;
-import br.com.felipesilva.domain.usecase.UpdateUserUseCase;
+import br.com.felipesilva.application.domain.User;
+import br.com.felipesilva.application.port.in.CreateUserUseCase;
+import br.com.felipesilva.application.port.in.DeleteUserUseCase;
+import br.com.felipesilva.application.port.in.GetUserUseCase;
+import br.com.felipesilva.application.port.in.UpdateUserUseCase;
 import br.com.felipesilva.rest.in.mapper.UserMapper;
 import br.com.felipesilva.rest.in.model.UserDto;
 import lombok.RequiredArgsConstructor;

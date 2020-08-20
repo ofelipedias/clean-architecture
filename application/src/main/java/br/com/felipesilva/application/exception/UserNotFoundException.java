@@ -1,4 +1,4 @@
-package br.com.felipesilva.domain.exception;
+package br.com.felipesilva.application.exception;
 
 public class UserNotFoundException extends RuntimeException {
 

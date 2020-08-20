@@ -19,7 +19,7 @@
 
         <dependency>
             <groupId>br.com.felipesilva</groupId>
-            <artifactId>domain</artifactId>
+            <artifactId>application</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>

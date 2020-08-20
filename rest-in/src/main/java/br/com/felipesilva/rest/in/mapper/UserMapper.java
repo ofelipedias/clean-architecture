@@ -1,6 +1,6 @@
 package br.com.felipesilva.rest.in.mapper;
 
-import br.com.felipesilva.domain.model.User;
+import br.com.felipesilva.application.domain.User;
 import br.com.felipesilva.rest.in.model.UserDto;
 
 public class UserMapper {

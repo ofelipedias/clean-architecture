@@ -10,18 +10,4 @@
     </parent>
 
     <artifactId>application</artifactId>
-
-    <dependencies>
-        <dependency>
-            <groupId>br.com.felipesilva</groupId>
-            <artifactId>postgres-db</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>br.com.felipesilva</groupId>
-            <artifactId>rest-in</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
 </project>

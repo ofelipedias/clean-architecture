@@ -1,6 +1,6 @@
-package br.com.felipesilva.domain.usecase;
+package br.com.felipesilva.application.port.in;
 
-import br.com.felipesilva.domain.model.User;
+import br.com.felipesilva.application.domain.User;
 
 import java.util.List;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package br.com.felipesilva.domain.usecase;
+package br.com.felipesilva.application.port.in;
 
 import java.util.UUID;
 

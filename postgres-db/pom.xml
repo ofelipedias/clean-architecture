@@ -25,7 +25,7 @@
 
         <dependency>
             <groupId>br.com.felipesilva</groupId>
-            <artifactId>domain</artifactId>
+            <artifactId>application</artifactId>
         </dependency>
     </dependencies>
 </project>
