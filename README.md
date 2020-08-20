@@ -4,3 +4,4 @@ No diretório raiz do projeto execute o comando:
 ```
 docker-compose up -d
 ```
+Reference: https://reflectoring.io/spring-hexagonal/
