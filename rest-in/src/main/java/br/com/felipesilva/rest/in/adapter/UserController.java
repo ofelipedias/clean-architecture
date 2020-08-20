@@ -1,4 +1,4 @@
-package br.com.felipesilva.rest.in.controller;
+package br.com.felipesilva.rest.in.adapter;
 
 import br.com.felipesilva.application.domain.User;
 import br.com.felipesilva.application.port.in.CreateUserUseCase;
